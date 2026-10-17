@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/rosdistro-reviewer/commit/15f4131c6e854dda1f08a9748ed6c660c78da055",
       "git:hexsha": "15f4131c6e854dda1f08a9748ed6c660c78da055",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.2.0"
     },
     {
